@@ -1,6 +1,4 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/Sarah7x/Sarah7x/assets/152454919/02b1b034-7561-4f9f-bd1f-f5c110ddacbc)
-
-
+![White Minimalist Corporate Personal Profile LinkedIn Banner(1)](https://github.com/Sarah7x/Sarah7x/assets/152454919/181c0b86-743b-4e9a-ac1e-1662c193b4b8)
 
 
 
