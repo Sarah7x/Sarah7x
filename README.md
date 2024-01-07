@@ -1,6 +1,6 @@
 ![White Minimalist Corporate Personal Profile LinkedIn Banner(3)](https://github.com/Sarah7x/Sarah7x/assets/152454919/6f74bf2e-96b4-4df1-a40f-39fde8b5905d) 
 
-Hello, I'm Sarah! I'm a data analyst & researcher weaving the narrative of data into stories of insight and impact.
+Hello, I'm Sarah! I'm a data analyst and researcher weaving the narrative of data into stories of insight and impact.
 
 ### 📈 What I Bring to the Table
 - Expertise in data analysis, modeling, comprehensive research, and beyond. 
