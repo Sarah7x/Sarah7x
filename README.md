@@ -11,7 +11,7 @@ Hello, I'm Sarah! I'm a data analyst and researcher weaving the narrative of dat
 ### 📚 My Data-Driven Path & Interests
 - With a Master's degree and diverse industry experience, I have honed a keen analytical focus that empowers data-driven solutions and innovations. Committed to continuous learning, I explore AI, 3D printing, music creation, and beyond.
 
-### 🔍 Explore my projects and see my skills in action [here.](https://www.linkedin.com/in/sarah-jeanne-7x/)
+### 🔍 Explore my projects and see my skills in action [here.](https://github.com/Sarah7x/My-Data-Projects)
 ---
 #### Connect with Me
 - 📧 [sarah-jeanne.tamas@umontreal.ca](mailto:sarah-jeanne.tamas@umontreal.ca)
